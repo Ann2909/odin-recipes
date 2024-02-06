@@ -1,0 +1,26 @@
+body {
+    font-family: 'Times New Roman', Times, serif, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+   background-color: aquamarine; 
+   color: yellow;
+   text-align: center;
+}
+
+.recipes {
+    font-size: 22px;
+    font-weight: 800;
+}
+
+.recipes.lasagna {
+    color: burlywood;
+}
+
+.recipes.chicken {
+    color: bisque;
+}
+
+.recipes.pizza{
+    color: peru;
+}
